@@ -1,5 +1,5 @@
 # ASBR_Name-ID_Linker
-This tool is for the modding of _[JoJo's Bizarre Adventure: All-Star Battle R](https://www.nexusmods.com/jojosbizarreadventureallstarbattler)_, a 2022 game developed by [CyberConnect2](https://jojowiki.com/CyberConnect2).
+This tool is for the modding of _[JoJo's Bizarre Adventure: All-Star Battle R](https://www.nexusmods.com/jojosbizarreadventureallstarbattler)_, a 2022 game developed by [CyberConnect2](https://jojomodding.miraheze.org/wiki/CyberConnect2).
 
 It takes character string IDs that you input and outputs said characters' short/full names and their integer IDs.
 
